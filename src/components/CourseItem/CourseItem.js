@@ -31,7 +31,7 @@ const CourseItem = (props) => {
                     </div>
                     <p><strong>Course Fee:</strong> INR{price}</p>
                     <button className='btn btn-primary' onClick={() => handleDetails(course)}>More Details</button>
-                    <a style={{background: '#1484f5', color:'white',width:'100px', height: '38px',padding:'7px 7px 7px 7px',margin: '2px 2px 2px 2px',font:'400 15px system-ui'}} href={pdf}>Get Free PDF</a>
+                    <a style={{background: '#1484f5', color:'white',width:'100px', height: '30px',padding:'7px 7px 7px 7px',margin: '2px 2px 2px 2px',font:'400 12px system-ui'}} href={pdf}>Get Free PDF</a>
                 </div>
             </div>
         </div>
