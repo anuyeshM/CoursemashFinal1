@@ -21,7 +21,7 @@ const SingleCourse = () => {
   }
   const opts = {
     height: '420',
-    width: '520',
+    width: '550',
     playerVars: {
       // https://developers.google.com/youtube/player_parameters
       autoplay: 0,
